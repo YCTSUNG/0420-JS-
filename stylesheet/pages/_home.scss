@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    height: auto;
+    margin:0 auto;
+    background-color: gray;
+}
+
+.wrapper{
+    width: 800px;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+.wrapper p{
+    line-height: 35px;
+    margin-left: 6px;
+    margin-top: 18px;
+}
+
+
+input{   
+    width: 100px;
+    height: 30px;
+    margin-top: 5px ;
+    margin-left: 7px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-left: 46%;
+    background-color: red
+
+}
